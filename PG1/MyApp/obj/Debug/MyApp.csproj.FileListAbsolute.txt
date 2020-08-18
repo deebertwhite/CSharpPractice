@@ -1,0 +1,14 @@
+C:\Users\deebe\CSharpPractice\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\deebe\CSharpPractice\MyApp\bin\Debug\MyApp.exe
+C:\Users\deebe\CSharpPractice\MyApp\bin\Debug\MyApp.pdb
+C:\Users\deebe\CSharpPractice\MyApp\obj\Debug\MainWindow.g.cs
+C:\Users\deebe\CSharpPractice\MyApp\obj\Debug\App.g.cs
+C:\Users\deebe\CSharpPractice\MyApp\obj\Debug\MyApp_MarkupCompile.cache
+C:\Users\deebe\CSharpPractice\MyApp\obj\Debug\MyApp_MarkupCompile.lref
+C:\Users\deebe\CSharpPractice\MyApp\obj\Debug\MainWindow.baml
+C:\Users\deebe\CSharpPractice\MyApp\obj\Debug\MyApp.g.resources
+C:\Users\deebe\CSharpPractice\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\Users\deebe\CSharpPractice\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+C:\Users\deebe\CSharpPractice\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\deebe\CSharpPractice\MyApp\obj\Debug\MyApp.exe
+C:\Users\deebe\CSharpPractice\MyApp\obj\Debug\MyApp.pdb

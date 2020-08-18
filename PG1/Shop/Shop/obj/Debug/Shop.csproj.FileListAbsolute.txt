@@ -1,0 +1,13 @@
+I:\Code Examples\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+I:\Code Examples\Shop\Shop\bin\Debug\Shop.exe.config
+I:\Code Examples\Shop\Shop\bin\Debug\Shop.exe
+I:\Code Examples\Shop\Shop\bin\Debug\Shop.pdb
+I:\Code Examples\Shop\Shop\obj\Debug\Shop.exe
+I:\Code Examples\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\deebe\CSharpPractice\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\deebe\CSharpPractice\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\deebe\CSharpPractice\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\deebe\CSharpPractice\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\deebe\CSharpPractice\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\deebe\CSharpPractice\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\deebe\CSharpPractice\Shop\Shop\obj\Debug\Shop.pdb

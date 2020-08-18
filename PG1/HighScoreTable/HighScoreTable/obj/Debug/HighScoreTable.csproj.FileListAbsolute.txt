@@ -1,0 +1,6 @@
+C:\Users\deebe\CSharpPractice\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+C:\Users\deebe\CSharpPractice\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+C:\Users\deebe\CSharpPractice\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+C:\Users\deebe\CSharpPractice\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+C:\Users\deebe\CSharpPractice\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+C:\Users\deebe\CSharpPractice\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb

@@ -1,0 +1,5 @@
+C:\Users\deebe\CSharpPractice\PG2\Lab2\Lab2Library\bin\Debug\Lab2Library.dll
+C:\Users\deebe\CSharpPractice\PG2\Lab2\Lab2Library\bin\Debug\Lab2Library.pdb
+C:\Users\deebe\CSharpPractice\PG2\Lab2\Lab2Library\obj\Debug\Lab2Library.csproj.CoreCompileInputs.cache
+C:\Users\deebe\CSharpPractice\PG2\Lab2\Lab2Library\obj\Debug\Lab2Library.dll
+C:\Users\deebe\CSharpPractice\PG2\Lab2\Lab2Library\obj\Debug\Lab2Library.pdb

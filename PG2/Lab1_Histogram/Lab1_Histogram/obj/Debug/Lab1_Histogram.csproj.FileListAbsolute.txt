@@ -1,0 +1,6 @@
+C:\Users\deebe\CSharpPractice\PG2\Lab1_Histogram\Lab1_Histogram\bin\Debug\Lab1_Histogram.exe.config
+C:\Users\deebe\CSharpPractice\PG2\Lab1_Histogram\Lab1_Histogram\bin\Debug\Lab1_Histogram.exe
+C:\Users\deebe\CSharpPractice\PG2\Lab1_Histogram\Lab1_Histogram\bin\Debug\Lab1_Histogram.pdb
+C:\Users\deebe\CSharpPractice\PG2\Lab1_Histogram\Lab1_Histogram\obj\Debug\Lab1_Histogram.csproj.CoreCompileInputs.cache
+C:\Users\deebe\CSharpPractice\PG2\Lab1_Histogram\Lab1_Histogram\obj\Debug\Lab1_Histogram.exe
+C:\Users\deebe\CSharpPractice\PG2\Lab1_Histogram\Lab1_Histogram\obj\Debug\Lab1_Histogram.pdb

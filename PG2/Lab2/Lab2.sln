@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2", "Lab2\Lab2.csproj", "{44328A58-F167-4613-8F3B-659388807CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2Library", "Lab2Library\Lab2Library.csproj", "{C53032D8-7832-44D6-A6AC-7BC90FBB3CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2Tests", "Lab2Tests\Lab2Tests.csproj", "{E44AC4EF-E101-4A97-9C24-F54AB36169EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44328A58-F167-4613-8F3B-659388807CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44328A58-F167-4613-8F3B-659388807CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44328A58-F167-4613-8F3B-659388807CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44328A58-F167-4613-8F3B-659388807CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53032D8-7832-44D6-A6AC-7BC90FBB3CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53032D8-7832-44D6-A6AC-7BC90FBB3CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53032D8-7832-44D6-A6AC-7BC90FBB3CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53032D8-7832-44D6-A6AC-7BC90FBB3CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44AC4EF-E101-4A97-9C24-F54AB36169EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44AC4EF-E101-4A97-9C24-F54AB36169EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44AC4EF-E101-4A97-9C24-F54AB36169EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44AC4EF-E101-4A97-9C24-F54AB36169EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13C12414-97A5-44A9-A3D2-714540CC6287}
+	EndGlobalSection
+EndGlobal

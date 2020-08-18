@@ -1,0 +1,12 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\obj\Debug\Lab 5B.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\bin\Debug\Lab 5B.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\bin\Debug\Lab 5B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\bin\Debug\Lab 5B.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\obj\Debug\Lab 5B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\obj\Debug\Lab 5B.pdb
+C:\Users\deebe\CSharpPractice\Lab 5B\Lab 5B\bin\Debug\Lab 5B.exe.config
+C:\Users\deebe\CSharpPractice\Lab 5B\Lab 5B\bin\Debug\Lab 5B.exe
+C:\Users\deebe\CSharpPractice\Lab 5B\Lab 5B\bin\Debug\Lab 5B.pdb
+C:\Users\deebe\CSharpPractice\Lab 5B\Lab 5B\obj\Debug\Lab 5B.csproj.CoreCompileInputs.cache
+C:\Users\deebe\CSharpPractice\Lab 5B\Lab 5B\obj\Debug\Lab 5B.exe
+C:\Users\deebe\CSharpPractice\Lab 5B\Lab 5B\obj\Debug\Lab 5B.pdb
